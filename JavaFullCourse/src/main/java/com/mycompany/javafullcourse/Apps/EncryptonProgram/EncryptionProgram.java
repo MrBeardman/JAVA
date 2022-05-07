@@ -17,17 +17,14 @@ import java.util.Scanner;
 public class EncryptionProgram {
 
     private Scanner scanner;
-    private Random random;
     private ArrayList<Character> list;
     private ArrayList<Character> shuffledList;
     private char character;
-    private String line;
     private char[] letters;
 
     EncryptionProgram() {
 
         scanner = new Scanner(System.in);
-        random = new Random();
         list = new ArrayList();
         shuffledList = new ArrayList();
         character = ' ';
@@ -35,7 +32,6 @@ public class EncryptionProgram {
         newKey();
         askQuestion();
     }
-
     ;
     private void askQuestion() {
         while (true) {

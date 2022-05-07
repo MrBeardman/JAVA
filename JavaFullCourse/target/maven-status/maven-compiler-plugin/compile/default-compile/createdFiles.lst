@@ -19,6 +19,7 @@ variables.class
 com\mycompany\javafullcourse\OOP\Abstract\Vehicle.class
 com\mycompany\javafullcourse\JFrame\Graphics2D\NewMain.class
 com\mycompany\javafullcourse\JFrame\FlowLayoutManager\NewMain.class
+com\mycompany\javafullcourse\Apps\DuelSimulator\DuelSimulator.class
 com\mycompany\javafullcourse\OOP\VariableScope\NewMain.class
 switchStatement.class
 com\mycompany\javafullcourse\Apps\EncryptonProgram\EncryptionProgram.class
@@ -45,6 +46,7 @@ com\mycompany\javafullcourse\OOP\ArrayOfObjects\Food.class
 rng.class
 com\mycompany\javafullcourse\OOP\Interfaces\Prey.class
 com\mycompany\javafullcourse\OOP\ToStringMethod\Car.class
+com\mycompany\javafullcourse\Apps\DuelSimulator\NewMain.class
 com\mycompany\javafullcourse\OOP\AccessModifiers\package1\A.class
 com\mycompany\javafullcourse\OOP\OverloadedConstructors\Main.class
 com\mycompany\javafullcourse\OOP\ExceptionHandling\NewMain.class
@@ -56,15 +58,19 @@ com\mycompany\javafullcourse\JFrame\OpenNewGUIWindow\NewMain.class
 overloadedMethods.class
 com\mycompany\javafullcourse\OOP\Basics\Main.class
 switchVariables.class
+com\mycompany\javafullcourse\Apps\DuelSimulator\Enemy.class
+com\mycompany\javafullcourse\JFrame\ColorChooser\MyFrame.class
 com\mycompany\javafullcourse\JFrame\CreatingJFrame\MyFrame.class
 com\mycompany\javafullcourse\OOP\Encapsulation\Car.class
 com\mycompany\javafullcourse\JFrame\GridLayout\NewMain.class
 com\mycompany\javafullcourse\OOP\VariableScope\DiceRoller.class
+com\mycompany\javafullcourse\JFrame\ColorChooser\NewMain.class
 com\mycompany\javafullcourse\JFrame\Graphics2D\MyPanel.class
 printfMethod.class
 nestedLoop.class
 com\mycompany\javafullcourse\OOP\Polymorphism\NewMain.class
 com\mycompany\javafullcourse\OOP\SuperKeyword\Hero.class
+com\mycompany\javafullcourse\Apps\DuelSimulator\Cobold.class
 com\mycompany\javafullcourse\OOP\FileReader\NewMain.class
 mathClasses.class
 com\mycompany\javafullcourse\OOP\ArrayOfObjects\NewMain.class
@@ -82,6 +88,7 @@ com\mycompany\javafullcourse\OOP\OverridingMethods\Animal.class
 com\mycompany\javafullcourse\JFrame\Panels\NewMain.class
 com\mycompany\javafullcourse\OOP\Inheritance\NewMain.class
 returnMethods.class
+com\mycompany\javafullcourse\Apps\DuelSimulator\Archer.class
 com\mycompany\javafullcourse\OOP\Interfaces\Fish.class
 logicalOperators.class
 com\mycompany\javafullcourse\OOP\CopyObjects\Car.class
@@ -94,6 +101,7 @@ wrapperClass.class
 com\mycompany\javafullcourse\OOP\SuperKeyword\Person.class
 com\mycompany\javafullcourse\OOP\Inheritance\Bycicle.class
 com\mycompany\javafullcourse\OOP\ObjectPassingAsArguments\NewMain.class
+com\mycompany\javafullcourse\Apps\DuelSimulator\Fighter.class
 com\mycompany\javafullcourse\OOP\AccessModifiers\package2\C.class
 com\mycompany\javafullcourse\JFrame\JCheckBox\NewMain.class
 com\mycompany\javafullcourse\OOP\Abstract\NewMain.class
