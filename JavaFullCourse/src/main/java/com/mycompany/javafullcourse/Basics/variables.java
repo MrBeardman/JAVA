@@ -13,7 +13,7 @@ public class variables {
     
     //VARIABLE BASICS
 		
-		int x; //declaration
+		byte x; //declaration
 		x = 123; //assignment
 		//int x = 123; // initialization
     }

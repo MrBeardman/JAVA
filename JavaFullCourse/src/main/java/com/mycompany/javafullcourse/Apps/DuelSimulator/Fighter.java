@@ -6,6 +6,9 @@
 package com.mycompany.javafullcourse.Apps.DuelSimulator;
 
 import java.awt.List;
+import static java.lang.Math.random;
+import static java.lang.StrictMath.random;
+import java.util.Random;
 import java.util.Scanner;
 
 /**
@@ -13,24 +16,16 @@ import java.util.Scanner;
  * @author honza
  */
 public class Fighter {
-    
-        String name = " ";
-        int health = 0;
-        int strenght = 0;
-        int dexterity = 0;
-    
-    public void Fighter(String name, int health,int strenght,int dexterity){
-        
-       this.name = name;
-       this.health = health;
-       this.strenght = strenght;
-       this.dexterity = dexterity;
-    
+
+    int healthModifier;
+    int strenghtModifier;
+    int dexterityModifier;
+
+    int health;
+    int strenght;
+    int dexterity;
+
+    Fighter() {
+
     }
-    
-    
-    static void Duel(int healthModifier,int strenghtModifier,int dexterityModifier){
-        //Implement
-    
-    };
 }
